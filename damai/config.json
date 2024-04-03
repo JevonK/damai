@@ -1,0 +1,13 @@
+{
+  "index_url": "https://www.damai.cn/",
+  "login_url": "https://passport.damai.cn/login?ru=https%3A%2F%2Fwww.damai.cn%2F",
+  "target_url": "https://detail.damai.cn/item.htm?spm=a2oeg.home.card_0.ditem_2.591b23e1YDKFMA&id=773174234441",
+  "users": [
+    "名字1",
+    "名字2"
+  ],
+  "city": "广州",
+  "date": "2023-11-04",
+  "price": "880",
+  "if_commit_order": false
+}
